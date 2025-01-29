@@ -16,7 +16,7 @@ my-api-project
 │   └── users.routes.js        # API route definitions
 ├── .env                        # Environment variables
 ├── package.json                # NPM package configuration
-└── README.md                   # Project documentation
+└── README.md                   # Project documentation   
 ```
 
 ## Features
